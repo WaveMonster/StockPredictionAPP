@@ -74,13 +74,9 @@
 
 1\.  \*\*克隆仓库\*\*
 
-&nbsp;   ```bash
+&nbsp;   git clone \[https://github.com/WaveMonster/StockPredictionAPP.git](https://github.com/WaveMonster/StockPredictionAPP.git)
 
-&nbsp;   git clone \[https://github.com/YourUsername/Stock-Valuation-Tool.git](https://github.com/YourUsername/Stock-Valuation-Tool.git)
-
-&nbsp;   cd Stock-Valuation-Tool
-
-&nbsp;   ```
+&nbsp;   cd StockPredictionAPP
 
 
 
