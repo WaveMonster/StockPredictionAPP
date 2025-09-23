@@ -6,12 +6,6 @@
 
 
 
-!\[App Screenshot](https://i.imgur.com/uG9VzR6.png)
-
-\*(建议您将自己程序的截图替换此处的图片链接)\*
-
-
-
 ---
 
 
