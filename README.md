@@ -9,8 +9,8 @@
 ---
 
 
-
-\## 核心功能 (Features)
+**
+\## 核心功能 (Features)**
 
 
 
@@ -74,33 +74,35 @@
 
 1\.  \*\*克隆仓库\*\*
 
-&nbsp;   git clone \[https://github.com/WaveMonster/StockPredictionAPP.git](https://github.com/WaveMonster/StockPredictionAPP.git)
+```bash
 
-&nbsp;   cd StockPredictionAPP
+git clone https://github.com/WaveMonster/StockPredictionAPP.git
 
+cd StockPredictionAPP
 
+```
 
 2\.  \*\*创建 `requirements.txt` 文件\*\*
 
-&nbsp;   在您的项目文件夹根目录下，创建一个名为 `requirements.txt` 的文件，并将以下内容复制进去：
+在您的项目文件夹根目录下，创建一个名为 `requirements.txt` 的文件，并将以下内容复制进去：
 
-&nbsp;   ```
+```
 
-&nbsp;   yfinance
+yfinance
 
-&nbsp;   pandas
+pandas
 
-&nbsp;   matplotlib
+matplotlib
 
-&nbsp;   beautifulsoup4
+beautifulsoup4
 
-&nbsp;   requests
+requests
 
-&nbsp;   lxml
+lxml
 
-&nbsp;   scipy
+scipy
 
-&nbsp;   ```
+```
 
 
 
@@ -108,11 +110,11 @@
 
 &nbsp;   在终端中运行以下命令来安装所有必需的库：
 
-&nbsp;   ```bash
+```bash
 
 &nbsp;   pip install -r requirements.txt
 
-&nbsp;   ```
+```
 
 
 
